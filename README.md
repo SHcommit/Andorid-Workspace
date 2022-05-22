@@ -3,4 +3,4 @@
 
 CalculatorProject 계산기 구현!!!
 
-![계산기](https://user-images.githubusercontent.com/96910404/163362896-8b51721f-3051-4086-a784-5b4b478eafdd.gif)
+![calculator](https://user-images.githubusercontent.com/96910404/169706839-70c33bc2-43e7-4856-9c28-18ae22884084.gif)
